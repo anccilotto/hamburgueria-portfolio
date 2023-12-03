@@ -145,6 +145,139 @@ html{
     justify-content: space-between;
 }
 
+.sobre-nos{
+    background-color: #1f1e1f;
+    width: 100%;
+    padding-bottom: 5rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sobre-nos img{
+    width: 400px;
+    height: 400px;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    border: 2px solid rgba(245, 244, 244);
+
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentsobre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contentsobre h2{
+    font-size: 6rem;
+    margin-bottom: 1rem;
+}
+
+
+.contentsobre p{
+    text-align: end;
+    font-size: 2.5rem;
+    width: 950px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
