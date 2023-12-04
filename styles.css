@@ -13,7 +13,7 @@
 html{
     width: 100vw;
     height: 100vh;
-    font-size: 62.5%;
+    font-size: 60%;
     overflow-x: hidden;
 }
 
@@ -34,17 +34,19 @@ html{
     cursor: pointer;
     display: flex;
     align-items: center;
+    margin-right: 700px;
 }
 
 .logo h3{
     color: white;
     font-size: 1.6rem;
+    
+    
 }
 
 .logo img{
     width: 75px;
     height: 75px;
-    
 }
 
 .content .list-menu{
@@ -100,7 +102,7 @@ html{
 
 .first-section h1{
     color: #ffc506;
-    font-size: 5rem;
+    font-size: 4.5rem;
     text-transform: uppercase;
     margin-bottom: 1rem;
     margin-left: 300px;    
@@ -108,7 +110,7 @@ html{
 
 .first-section h2{
     color: rgba(177, 177, 177);
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 3rem;
@@ -148,7 +150,7 @@ html{
 .sobre-nos{
     background-color: #1f1e1f;
     width: 100%;
-    padding-bottom: 5rem;
+    padding-bottom: 20rem;
     color: white;
     display: flex;
     align-items: center;
@@ -156,8 +158,8 @@ html{
 }
 
 .sobre-nos img{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin-top: 10rem;
     margin-left: 10rem;
     border: 2px solid rgba(245, 244, 244);
