@@ -13,7 +13,7 @@
 html{
     width: 100vw;
     height: 100vh;
-    font-size: 40%;
+    font-size: 65%;
     overflow-x: hidden;
 }
 
@@ -111,7 +111,7 @@ html{
 .first-section h2{
     color: rgba(177, 177, 177);
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 800;
     text-transform: uppercase;
     margin-bottom: 3rem;
     margin-left: 300px;
